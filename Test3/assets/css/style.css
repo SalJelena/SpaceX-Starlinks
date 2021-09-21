@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+body{
+    background-image: url(../images/bck.jpg);
+    color: white;
+    text-align: center;
+    
+    
+}
+
+header {
+    font-size: 22px;
+    background-image: url(../images/bck2.jpg);
+    opacity: 0.3;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+    margin: 0 150px;
+}
+
+
+img {
+    width: 150px;
+}
+
+.div-select {
+    display:  inline-block;
+}
+
+.div-select select {
+    padding: 5px;
+    margin: 10px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+}
+
+
+.btn-upc {
+    padding: 5px;
+    margin: 10px;
+    background-color: rosybrown;
+    border-radius: 5px;
+}
+
+
+.div-list{
+    margin: 0 150px;
+    border-radius: 5px;
+    font-size: 22px;
+    font-family: 'Stick No Bills', sans-serif;
+}
